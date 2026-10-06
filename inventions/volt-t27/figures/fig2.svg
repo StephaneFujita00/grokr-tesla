@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#fff"/>
+  <!-- Body exploded -->
+  <rect x="200" y="200" width="120" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Channel indication -->
+  <rect x="210" y="220" width="100" height="40" fill="none" stroke="#111" stroke-width="1"/>
+  <line x1="215" y1="225" x2="305" y2="255" stroke="#111" stroke-width="0.5"/>
+  <line x1="215" y1="255" x2="305" y2="225" stroke="#111" stroke-width="0.5"/>
+  <!-- Inlet barb -->
+  <path d="M200 240 L170 240 L160 250 L170 260 L200 260" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Outlet barb -->
+  <path d="M320 240 L350 240 L360 250 L350 260 L320 260" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Screen -->
+  <rect x="155" y="235" width="10" height="30" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Cap exploded -->
+  <rect x="120" y="230" width="15" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Pressure port -->
+  <circle cx="260" cy="200" r="8" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Leader lines -->
+  <line x1="260" y1="240" x2="260" y2="320" stroke="#111" stroke-width="1"/>
+  <text x="250" y="335" font-family="Helvetica, Arial, sans-serif" font-size="11">10</text>
+  <line x1="260" y1="230" x2="200" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="180" y="170" font-family="Helvetica, Arial, sans-serif" font-size="11">12</text>
+  <line x1="160" y1="250" x2="100" y2="280" stroke="#111" stroke-width="1"/>
+  <text x="75" y="295" font-family="Helvetica, Arial, sans-serif" font-size="11">14</text>
+  <line x1="175" y1="250" x2="130" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="105" y="315" font-family="Helvetica, Arial, sans-serif" font-size="11">18</text>
+  <line x1="355" y1="250" x2="400" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="390" y="315" font-family="Helvetica, Arial, sans-serif" font-size="11">20</text>
+  <line x1="260" y1="192" x2="300" y2="150" stroke="#111" stroke-width="1"/>
+  <text x="295" y="140" font-family="Helvetica, Arial, sans-serif" font-size="11">16</text>
+  <line x1="127" y1="250" x2="80" y2="220" stroke="#111" stroke-width="1"/>
+  <text x="55" y="210" font-family="Helvetica, Arial, sans-serif" font-size="11">22</text>
+  <!-- Caption -->
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 2</text>
+</svg>
