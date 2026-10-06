@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<rect width="800" height="600" fill="#fff"/>
+<rect x="50" y="50" width="700" height="400" rx="20" ry="20" fill="none" stroke="#111" stroke-width="3"/>
+<rect x="70" y="70" width="660" height="360" fill="#f8f8f8" stroke="#111" stroke-width="2"/>
+<circle cx="400" cy="180" r="70" fill="none" stroke="#111" stroke-width="4"/>
+<path d="M370 160 L400 200 L430 160" fill="none" stroke="#111" stroke-width="4"/>
+<text x="400" y="260" font-family="Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#111">AUTOSTEER ENGAGED</text>
+<line x1="470" y1="180" x2="520" y2="140" stroke="#111" stroke-width="1.5"/>
+<text x="525" y="138" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#111">(26)</text>
+<rect x="100" y="300" width="200" height="80" fill="none" stroke="#111" stroke-width="2"/>
+<text x="200" y="330" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#111">Torque: 0.3 Nm</text>
+<text x="200" y="355" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111">Sample 100 Hz</text>
+<line x1="300" y1="340" x2="340" y2="340" stroke="#111" stroke-width="1.5"/>
+<text x="345" y="343" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#111">(24)</text>
+<rect x="550" y="300" width="160" height="80" fill="none" stroke="#111" stroke-width="2"/>
+<text x="630" y="330" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#111">ADAS Controller</text>
+<text x="630" y="355" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111">(20)</text>
+<line x1="470" y1="340" x2="550" y2="340" stroke="#111" stroke-width="1.5"/>
+<rect x="100" y="420" width="140" height="50" fill="none" stroke="#111" stroke-width="2"/>
+<text x="170" y="450" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111">Haptic (28)</text>
+<path d="M400 250 L400 300" fill="none" stroke="#111" stroke-width="2"/>
+<text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#111">FIG. 1</text>
+</svg>
