@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<rect width="800" height="600" fill="#fff"/>
+<rect x="50" y="350" width="700" height="30" fill="#f0f0f0" stroke="#111" stroke-width="2"/>
+<rect x="300" y="320" width="80" height="40" fill="#e8e8e8" stroke="#111" stroke-width="2"/>
+<rect x="320" y="305" width="40" height="20" fill="#d0d0d0" stroke="#111" stroke-width="2"/>
+<rect x="200" y="150" width="60" height="80" fill="#fff" stroke="#111" stroke-width="2"/>
+<line x1="230" y1="230" x2="340" y2="320" stroke="#111" stroke-width="1.5"/>
+<rect x="450" y="160" width="50" height="40" fill="#fff" stroke="#111" stroke-width="2"/>
+<line x1="475" y1="200" x2="340" y2="305" stroke="#111" stroke-width="1" stroke-dasharray="4,2"/>
+<line x1="380" y1="280" x2="380" y2="300" stroke="#111" stroke-width="3"/>
+<line x1="400" y1="280" x2="400" y2="300" stroke="#111" stroke-width="3"/>
+<rect x="600" y="100" width="120" height="80" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="620" y="145" font-family="Helvetica, Arial, sans-serif" font-size="14">PLC (42)</text>
+<line x1="340" y1="310" x2="150" y2="250" stroke="#111" stroke-width="1"/>
+<text x="20" y="245" font-family="Helvetica, Arial, sans-serif" font-size="12">squib (18)</text>
+<line x1="340" y1="340" x2="100" y2="400" stroke="#111" stroke-width="1"/>
+<text x="20" y="405" font-family="Helvetica, Arial, sans-serif" font-size="12">housing (12)</text>
+<line x1="230" y1="190" x2="100" y2="150" stroke="#111" stroke-width="1"/>
+<text x="20" y="155" font-family="Helvetica, Arial, sans-serif" font-size="12">camera (16)</text>
+<line x1="475" y1="180" x2="550" y2="120" stroke="#111" stroke-width="1"/>
+<text x="555" y="125" font-family="Helvetica, Arial, sans-serif" font-size="12">projector (22)</text>
+<line x1="380" y1="290" x2="500" y2="280" stroke="#111" stroke-width="1"/>
+<text x="505" y="285" font-family="Helvetica, Arial, sans-serif" font-size="12">probes (28)</text>
+<text x="350" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<rect width="800" height="600" fill="#fff"/>
+<rect x="250" y="200" width="300" height="200" fill="#e8e8e8" stroke="#111" stroke-width="2"/>
+<rect x="260" y="210" width="280" height="180" fill="#f8f8f8" stroke="#111" stroke-width="1"/>
+<rect x="340" y="220" width="120" height="60" fill="#d0d0d0" stroke="#111" stroke-width="2"/>
+<line x1="360" y1="280" x2="360" y2="340" stroke="#111" stroke-width="3"/>
+<line x1="440" y1="280" x2="440" y2="340" stroke="#111" stroke-width="3"/>
+<circle cx="300" cy="300" r="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="500" cy="300" r="8" fill="#fff" stroke="#111" stroke-width="2"/>
+<circle cx="360" cy="320" r="4" fill="#111"/>
+<circle cx="440" cy="320" r="4" fill="#111"/>
+<line x1="400" y1="250" x2="550" y2="150" stroke="#111" stroke-width="1"/>
+<text x="555" y="155" font-family="Helvetica, Arial, sans-serif" font-size="12">squib (18)</text>
+<line x1="400" y1="300" x2="150" y2="180" stroke="#111" stroke-width="1"/>
+<text x="20" y="185" font-family="Helvetica, Arial, sans-serif" font-size="12">housing (12)</text>
+<line x1="360" y1="340" x2="200" y2="400" stroke="#111" stroke-width="1"/>
+<text x="20" y="405" font-family="Helvetica, Arial, sans-serif" font-size="12">leads (30)</text>
+<line x1="300" y1="300" x2="150" y2="320" stroke="#111" stroke-width="1"/>
+<text x="20" y="325" font-family="Helvetica, Arial, sans-serif" font-size="12">access port (36)</text>
+<line x1="400" y1="320" x2="550" y2="380" stroke="#111" stroke-width="1"/>
+<text x="555" y="385" font-family="Helvetica, Arial, sans-serif" font-size="12">test point</text>
+<text x="350" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 2</text>
+</svg>
