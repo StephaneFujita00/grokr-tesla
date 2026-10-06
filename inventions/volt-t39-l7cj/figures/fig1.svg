@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect x="100" y="450" width="600" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="200" y="300" width="400" height="150" fill="none" stroke="#111" stroke-width="2"/>
+  <polygon points="280,320 320,320 340,380 300,380" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="350" y="100" width="100" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="400" y1="160" x2="400" y2="280" stroke="#111" stroke-width="1" stroke-dasharray="4,2"/>
+  <rect x="500" y="120" width="80" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="540" y1="170" x2="320" y2="320" stroke="#111" stroke-width="1" stroke-dasharray="4,2"/>
+  <rect x="150" y="200" width="500" height="10" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="180" y="420" width="30" height="30" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="550" y="320" width="40" height="20" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="400" y1="130" x2="450" y2="80" stroke="#111" stroke-width="1"/>
+  <text x="455" y="75" font-family="Helvetica, Arial, sans-serif" font-size="14">12</text>
+  <line x1="540" y1="145" x2="580" y2="90" stroke="#111" stroke-width="1"/>
+  <text x="585" y="85" font-family="Helvetica, Arial, sans-serif" font-size="14">14</text>
+  <line x1="320" y1="350" x2="250" y2="250" stroke="#111" stroke-width="1"/>
+  <text x="240" y="245" font-family="Helvetica, Arial, sans-serif" font-size="14">20</text>
+  <line x1="570" y1="330" x2="620" y2="280" stroke="#111" stroke-width="1"/>
+  <text x="625" y="275" font-family="Helvetica, Arial, sans-serif" font-size="14">16</text>
+  <line x1="195" y1="435" x2="140" y2="400" stroke="#111" stroke-width="1"/>
+  <text x="130" y="395" font-family="Helvetica, Arial, sans-serif" font-size="14">26</text>
+  <line x1="400" y1="375" x2="350" y2="500" stroke="#111" stroke-width="1"/>
+  <text x="340" y="510" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <line x1="400" y1="470" x2="300" y2="520" stroke="#111" stroke-width="1"/>
+  <text x="290" y="530" font-family="Helvetica, Arial, sans-serif" font-size="14">24</text>
+  <line x1="400" y1="205" x2="300" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="280" y="175" font-family="Helvetica, Arial, sans-serif" font-size="14">28</text>
+  <line x1="400" y1="280" x2="450" y2="350" stroke="#111" stroke-width="1"/>
+  <text x="455" y="355" font-family="Helvetica, Arial, sans-serif" font-size="14">18</text>
+  <text x="350" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">FIG. 1</text>
+</svg>
