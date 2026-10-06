@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <path d="M300 150 L300 350 L500 350 L500 150 Z" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M320 150 L340 120 L380 120 L400 150" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M325 150 Q335 160 345 150" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M375 150 Q385 160 395 150" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="355" y="120" width="30" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="300" y1="150" x2="300" y2="120" stroke="#111" stroke-width="1"/>
+  <line x1="400" y1="150" x2="400" y2="120" stroke="#111" stroke-width="1"/>
+  <line x1="300" y1="120" x2="400" y2="120" stroke="#111" stroke-width="1"/>
+  <text x="340" y="110" font-family="Helvetica, Arial, sans-serif" font-size="11">30 deg</text>
+  <line x1="335" y1="155" x2="280" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="240" y="185" font-family="Helvetica, Arial, sans-serif" font-size="11">R 1.5</text>
+  <line x1="325" y1="160" x2="325" y2="175" stroke="#111" stroke-width="1"/>
+  <text x="280" y="175" font-family="Helvetica, Arial, sans-serif" font-size="11">0.8 mm</text>
+  <line x1="325" y1="175" x2="375" y2="175" stroke="#111" stroke-width="1"/>
+  <text x="340" y="190" font-family="Helvetica, Arial, sans-serif" font-size="11">3.0 mm</text>
+  <line x1="320" y1="200" x2="250" y2="220" stroke="#111" stroke-width="1"/>
+  <text x="200" y="225" font-family="Helvetica, Arial, sans-serif" font-size="11">45-50 HRC</text>
+  <line x1="355" y1="200" x2="420" y2="200" stroke="#111" stroke-width="1"/>
+  <text x="425" y="205" font-family="Helvetica, Arial, sans-serif" font-size="11">12.700 mm</text>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 2</text>
+</svg>
