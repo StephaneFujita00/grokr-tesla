@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#fff"/>
+  <rect x="100" y="200" width="600" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="180" y="170" width="60" height="140" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="560" y="170" width="60" height="140" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="190" y="180" width="40" height="20" fill="none" stroke="#111" stroke-width="1"/>
+  <rect x="570" y="180" width="40" height="20" fill="none" stroke="#111" stroke-width="1"/>
+  <line x1="210" y1="190" x2="210" y2="300" stroke="#111" stroke-width="1"/>
+  <line x1="590" y1="190" x2="590" y2="300" stroke="#111" stroke-width="1"/>
+  <line x1="210" y1="300" x2="400" y2="350" stroke="#111" stroke-width="1"/>
+  <line x1="590" y1="300" x2="400" y2="350" stroke="#111" stroke-width="1"/>
+  <rect x="360" y="360" width="80" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="210" y1="240" x2="100" y2="150" stroke="#111" stroke-width="1"/>
+  <text x="50" y="145" font-family="Helvetica, Arial, sans-serif" font-size="14">20</text>
+  <line x1="590" y1="240" x2="700" y2="150" stroke="#111" stroke-width="1"/>
+  <text x="705" y="145" font-family="Helvetica, Arial, sans-serif" font-size="14">20</text>
+  <line x1="400" y1="200" x2="400" y2="100" stroke="#111" stroke-width="1"/>
+  <text x="405" y="95" font-family="Helvetica, Arial, sans-serif" font-size="14">12</text>
+  <line x1="400" y1="280" x2="500" y2="320" stroke="#111" stroke-width="1"/>
+  <text x="505" y="325" font-family="Helvetica, Arial, sans-serif" font-size="14">30</text>
+  <line x1="400" y1="380" x2="300" y2="420" stroke="#111" stroke-width="1"/>
+  <text x="250" y="425" font-family="Helvetica, Arial, sans-serif" font-size="14">BCM</text>
+  <line x1="210" y1="260" x2="570" y2="260" stroke="#111" stroke-width="1"/>
+  <polygon points="210,260 220,255 220,265" fill="#111"/>
+  <polygon points="570,260 560,255 560,265" fill="#111"/>
+  <text x="390" y="255" font-family="Helvetica, Arial, sans-serif" font-size="12">400 mm</text>
+  <path d="M185 175 L205 175 L205 195 L185 195 Z" fill="none" stroke="#111" stroke-width="0.5"/>
+  <path d="M187 177 L203 193" stroke="#111" stroke-width="0.5"/>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">FIG. 2</text>
+</svg>
