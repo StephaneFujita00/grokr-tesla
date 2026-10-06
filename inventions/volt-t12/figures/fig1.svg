@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect x="100" y="400" width="600" height="25" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="150" y="380" width="40" height="20" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="610" y="380" width="40" height="20" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="200" y1="380" x2="200" y2="360" stroke="#111" stroke-width="2"/>
+  <line x1="600" y1="380" x2="600" y2="360" stroke="#111" stroke-width="2"/>
+  <rect x="180" y="280" width="440" height="100" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="320" y="300" width="160" height="30" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="360" cy="315" r="6" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="440" cy="315" r="6" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="280" y="180" width="240" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="360" y1="240" x2="360" y2="300" stroke="#111" stroke-width="2"/>
+  <line x1="440" y1="240" x2="440" y2="300" stroke="#111" stroke-width="2"/>
+  <path d="M355 250 Q360 260 355 270 Q360 280 355 290" fill="none" stroke="#111" stroke-width="1.5"/>
+  <path d="M435 250 Q440 260 435 270 Q440 280 435 290" fill="none" stroke="#111" stroke-width="1.5"/>
+  <rect x="360" y="120" width="80" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="250" y1="180" x2="250" y2="400" stroke="#111" stroke-width="2"/>
+  <line x1="550" y1="180" x2="550" y2="400" stroke="#111" stroke-width="2"/>
+  <rect x="50" y="450" width="120" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="110" y1="450" x2="360" y2="240" stroke="#111" stroke-width="1" stroke-dasharray="4,2"/>
+  <line x1="110" y1="450" x2="440" y2="240" stroke="#111" stroke-width="1" stroke-dasharray="4,2"/>
+  <line x1="200" y1="370" x2="80" y2="340" stroke="#111" stroke-width="1"/>
+  <text x="20" y="335" font-family="Helvetica, Arial, sans-serif" font-size="12">18</text>
+  <line x1="360" y1="315" x2="300" y2="260" stroke="#111" stroke-width="1"/>
+  <text x="260" y="255" font-family="Helvetica, Arial, sans-serif" font-size="12">16</text>
+  <line x1="400" y1="180" x2="400" y2="100" stroke="#111" stroke-width="1"/>
+  <text x="380" y="90" font-family="Helvetica, Arial, sans-serif" font-size="12">20</text>
+  <line x1="400" y1="150" x2="500" y2="130" stroke="#111" stroke-width="1"/>
+  <text x="505" y="125" font-family="Helvetica, Arial, sans-serif" font-size="12">24</text>
+  <line x1="110" y1="490" x2="50" y2="520" stroke="#111" stroke-width="1"/>
+  <text x="10" y="530" font-family="Helvetica, Arial, sans-serif" font-size="12">30</text>
+  <line x1="320" y1="400" x2="320" y2="440" stroke="#111" stroke-width="1"/>
+  <text x="290" y="455" font-family="Helvetica, Arial, sans-serif" font-size="12">12</text>
+  <line x1="440" y1="315" x2="520" y2="290" stroke="#111" stroke-width="1"/>
+  <text x="525" y="285" font-family="Helvetica, Arial, sans-serif" font-size="12">22</text>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+</svg>
