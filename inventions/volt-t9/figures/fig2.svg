@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#FFFFFF"/>
+  <!-- Vehicle underbody outline -->
+  <rect x="50" y="100" width="700" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="300" y="90" font-family="Helvetica, Arial, sans-serif" font-size="12">Underbody rail (52)</text>
+  <!-- Rear liftgate area -->
+  <rect x="650" y="50" width="100" height="150" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="660" y="45" font-family="Helvetica, Arial, sans-serif" font-size="11">Liftgate (50)</text>
+  <!-- Rear camera -->
+  <circle cx="720" cy="120" r="15" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="695" y="155" font-family="Helvetica, Arial, sans-serif" font-size="10">Rear camera (30)</text>
+  <!-- FSD computer location -->
+  <rect x="100" y="280" width="120" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="105" y="275" font-family="Helvetica, Arial, sans-serif" font-size="10">FSD computer 4.0 (32)</text>
+  <!-- Harness routing line -->
+  <path d="M705 120 Q550 150 400 200 Q250 250 160 300" fill="none" stroke="#111" stroke-width="3"/>
+  <text x="400" y="180" font-family="Helvetica, Arial, sans-serif" font-size="11">Harness assembly (10) 5.8 m</text>
+  <!-- Securing clips -->
+  <circle cx="600" cy="160" r="6" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="450" cy="210" r="6" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="300" cy="255" r="6" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="580" y="175" font-family="Helvetica, Arial, sans-serif" font-size="9">Clip (54)</text>
+  <text x="430" y="225" font-family="Helvetica, Arial, sans-serif" font-size="9">Clip (54)</text>
+  <text x="280" y="270" font-family="Helvetica, Arial, sans-serif" font-size="9">Clip (54)</text>
+  <!-- Axle reference -->
+  <rect x="180" y="350" width="80" height="30" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="185" y="345" font-family="Helvetica, Arial, sans-serif" font-size="10">Rear axle</text>
+  <!-- Leader lines -->
+  <line x1="720" y1="120" x2="720" y2="50" stroke="#111" stroke-width="1"/>
+  <line x1="160" y1="310" x2="160" y2="340" stroke="#111" stroke-width="1"/>
+  <line x1="400" y1="200" x2="400" y2="230" stroke="#111" stroke-width="1"/>
+  <!-- Dimension arrow -->
+  <line x1="50" y1="420" x2="750" y2="420" stroke="#111" stroke-width="1"/>
+  <text x="380" y="440" font-family="Helvetica, Arial, sans-serif" font-size="11">Total harness length 5.8 m ± 20 mm</text>
+  <!-- Caption -->
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 2</text>
+</svg>
