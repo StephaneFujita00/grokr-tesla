@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <!-- Sub-frame -->
+  <rect x="150" y="280" width="500" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Boss -->
+  <rect x="380" y="240" width="40" height="120" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Hatching on boss cut -->
+  <path d="M385 245 L415 245 M390 255 L420 255 M385 265 L415 265 M390 275 L420 275 M385 285 L415 285 M390 295 L420 295 M385 305 L415 305 M390 315 L420 315 M385 325 L415 325 M390 335 L420 335" stroke="#111" stroke-width="0.8"/>
+  <!-- Lateral link eye -->
+  <circle cx="400" cy="420" r="35" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Fastener shank -->
+  <rect x="395" y="300" width="10" height="120" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Fastener head -->
+  <polygon points="380,300 420,300 415,280 385,280" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Nutrunner body -->
+  <rect x="300" y="200" width="200" height="70" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Nutrunner socket -->
+  <rect x="385" y="260" width="30" height="25" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Reaction torque sensor -->
+  <rect x="320" y="185" width="60" height="20" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Strain gauges -->
+  <rect x="365" y="255" width="8" height="12" fill="none" stroke="#111" stroke-width="1.5"/>
+  <rect x="427" y="255" width="8" height="12" fill="none" stroke="#111" stroke-width="1.5"/>
+  <rect x="396" y="355" width="8" height="12" fill="none" stroke="#111" stroke-width="1.5"/>
+  <!-- Leader lines and numerals -->
+  <!-- 10 sub-frame -->
+  <line x1="200" y1="320" x2="150" y2="380" stroke="#111" stroke-width="1"/>
+  <text x="100" y="385" font-family="Helvetica, Arial, sans-serif" font-size="14">10</text>
+  <!-- 12 fastener -->
+  <line x1="400" y1="310" x2="340" y2="260" stroke="#111" stroke-width="1"/>
+  <text x="310" y="255" font-family="Helvetica, Arial, sans-serif" font-size="14">12</text>
+  <!-- 14 boss -->
+  <line x1="400" y1="280" x2="460" y2="220" stroke="#111" stroke-width="1"/>
+  <text x="465" y="215" font-family="Helvetica, Arial, sans-serif" font-size="14">14</text>
+  <!-- 16 eye -->
+  <line x1="435" y1="420" x2="500" y2="450" stroke="#111" stroke-width="1"/>
+  <text x="505" y="455" font-family="Helvetica, Arial, sans-serif" font-size="14">16</text>
+  <!-- 18 nutrunner -->
+  <line x1="350" y1="235" x2="280" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="240" y="175" font-family="Helvetica, Arial, sans-serif" font-size="14">18</text>
+  <!-- 20 torque sensor -->
+  <line x1="350" y1="195" x2="280" y2="140" stroke="#111" stroke-width="1"/>
+  <text x="240" y="135" font-family="Helvetica, Arial, sans-serif" font-size="14">20</text>
+  <!-- 22 strain gauges -->
+  <line x1="369" y1="261" x2="300" y2="200" stroke="#111" stroke-width="1"/>
+  <text x="260" y="195" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <line x1="431" y1="261" x2="500" y2="200" stroke="#111" stroke-width="1"/>
+  <text x="505" y="195" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <line x1="400" y1="361" x2="340" y2="420" stroke="#111" stroke-width="1"/>
+  <text x="300" y="425" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <!-- Caption -->
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">FIG. 1</text>
+</svg>
