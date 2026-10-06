@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <!-- Armature boss -->
+  <circle cx="400" cy="300" r="60" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Ring terminal -->
+  <circle cx="400" cy="300" r="42" fill="none" stroke="#111" stroke-width="3"/>
+  <rect x="380" y="255" width="40" height="20" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Ground wire -->
+  <line x1="420" y1="265" x2="520" y2="200" stroke="#111" stroke-width="4"/>
+  <text x="530" y="195" font-family="Helvetica, Arial, sans-serif" font-size="14">ground wire (28)</text>
+  <!-- Retention clip -->
+  <path d="M360,280 Q380,250 400,280 Q420,250 440,280" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M360,320 Q380,350 400,320 Q420,350 440,320" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="360" y1="280" x2="360" y2="320" stroke="#111" stroke-width="2"/>
+  <line x1="440" y1="280" x2="440" y2="320" stroke="#111" stroke-width="2"/>
+  <!-- Detent -->
+  <rect x="395" y="275" width="10" height="8" fill="none" stroke="#111" stroke-width="1.5"/>
+  <line x1="400" y1="275" x2="400" y2="250" stroke="#111" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="410" y="245" font-family="Helvetica, Arial, sans-serif" font-size="12">detent (22)</text>
+  <!-- Notch on terminal -->
+  <line x1="395" y1="260" x2="405" y2="260" stroke="#111" stroke-width="2"/>
+  <line x1="400" y1="260" x2="400" y2="245" stroke="#111" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="340" y="240" font-family="Helvetica, Arial, sans-serif" font-size="12">notch (24)</text>
+  <!-- Bolt -->
+  <circle cx="400" cy="300" r="8" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="420" y="305" font-family="Helvetica, Arial, sans-serif" font-size="12">M6 bolt (30)</text>
+  <!-- Sensor leads -->
+  <line x1="340" y1="300" x2="280" y2="300" stroke="#111" stroke-width="1.5"/>
+  <line x1="280" y1="300" x2="280" y2="380" stroke="#111" stroke-width="1.5"/>
+  <text x="200" y="395" font-family="Helvetica, Arial, sans-serif" font-size="12">leads to sensor (18)</text>
+  <!-- Hatching on clip section -->
+  <line x1="365" y1="285" x2="375" y2="315" stroke="#111" stroke-width="0.5"/>
+  <line x1="370" y1="285" x2="380" y2="315" stroke="#111" stroke-width="0.5"/>
+  <line x1="425" y1="285" x2="435" y2="315" stroke="#111" stroke-width="0.5"/>
+  <!-- Caption -->
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+  <!-- Leader lines and numerals -->
+  <line x1="400" y1="360" x2="400" y2="400" stroke="#111" stroke-width="1"/>
+  <text x="380" y="415" font-family="Helvetica, Arial, sans-serif" font-size="12">armature (16)</text>
+  <line x1="442" y1="300" x2="480" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="485" y="305" font-family="Helvetica, Arial, sans-serif" font-size="12">ring terminal (14)</text>
+  <line x1="360" y1="300" x2="320" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="250" y="305" font-family="Helvetica, Arial, sans-serif" font-size="12">retention clip (12)</text>
+</svg>
