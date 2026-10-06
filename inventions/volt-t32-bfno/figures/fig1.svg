@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect x="150" y="220" width="500" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="200" y="240" width="400" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="550" y="235" width="60" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="620" cy="260" r="25" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="480" y="245" width="30" height="30" fill="none" stroke="#111" stroke-width="2"/>
+  <path d="M480 245 L510 275 M485 245 L510 270 M490 245 L510 265" stroke="#111" stroke-width="1"/>
+  <line x1="495" y1="260" x2="420" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="350" y="175" font-family="Helvetica, Arial, sans-serif" font-size="14">20</text>
+  <path d="M480 275 Q400 320 300 300" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="280" y="280" width="40" height="25" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="300" y1="305" x2="300" y2="340" stroke="#111" stroke-width="2"/>
+  <line x1="300" y1="292" x2="240" y2="260" stroke="#111" stroke-width="1"/>
+  <text x="180" y="255" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <rect x="100" y="380" width="120" height="80" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="130" y="425" font-family="Helvetica, Arial, sans-serif" font-size="12">ECU</text>
+  <line x1="160" y1="380" x2="160" y2="340" stroke="#111" stroke-width="1"/>
+  <text x="130" y="335" font-family="Helvetica, Arial, sans-serif" font-size="14">30</text>
+  <circle cx="650" cy="260" r="45" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="200" y1="200" x2="600" y2="200" stroke="#111" stroke-width="1" stroke-dasharray="4"/>
+  <text x="380" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12">28 mm dia shaft</text>
+  <circle cx="180" cy="260" r="8" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="620" cy="260" r="8" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="400" y1="240" x2="400" y2="150" stroke="#111" stroke-width="1"/>
+  <text x="370" y="145" font-family="Helvetica, Arial, sans-serif" font-size="14">12</text>
+  <line x1="620" y1="235" x2="700" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="680" y="175" font-family="Helvetica, Arial, sans-serif" font-size="14">14</text>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+</svg>
