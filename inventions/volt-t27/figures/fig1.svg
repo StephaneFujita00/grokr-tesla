@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#fff"/>
+  <!-- Supply hose -->
+  <rect x="50" y="220" width="120" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="80" y="255" font-family="Helvetica, Arial, sans-serif" font-size="12">Supply hose (24)</text>
+  <!-- Elbow body -->
+  <path d="M170 250 Q 250 250 300 200 Q 350 150 400 150" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="170" y="220" width="80" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Flow channel hatching -->
+  <path d="M180 230 L260 230 L260 270 L180 270 Z" fill="none" stroke="#111" stroke-width="1"/>
+  <line x1="185" y1="235" x2="255" y2="265" stroke="#111" stroke-width="0.5"/>
+  <line x1="185" y1="265" x2="255" y2="235" stroke="#111" stroke-width="0.5"/>
+  <!-- Screen -->
+  <rect x="165" y="235" width="15" height="30" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="168" y1="238" x2="177" y2="262" stroke="#111" stroke-width="0.8"/>
+  <line x1="168" y1="262" x2="177" y2="238" stroke="#111" stroke-width="0.8"/>
+  <!-- Cap -->
+  <rect x="155" y="230" width="12" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Wiper arm manifold -->
+  <rect x="380" y="120" width="100" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="390" y="155" font-family="Helvetica, Arial, sans-serif" font-size="12">Wiper arm manifold (26)</text>
+  <!-- Nozzles -->
+  <circle cx="420" cy="140" r="4" fill="none" stroke="#111" stroke-width="2"/>
+  <circle cx="440" cy="140" r="4" fill="none" stroke="#111" stroke-width="2"/>
+  <!-- Leader lines and numerals -->
+  <line x1="200" y1="250" x2="200" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="190" y="315" font-family="Helvetica, Arial, sans-serif" font-size="11">10</text>
+  <line x1="220" y1="240" x2="220" y2="310" stroke="#111" stroke-width="1"/>
+  <text x="210" y="325" font-family="Helvetica, Arial, sans-serif" font-size="11">12</text>
+  <line x1="162" y1="250" x2="120" y2="280" stroke="#111" stroke-width="1"/>
+  <text x="95" y="295" font-family="Helvetica, Arial, sans-serif" font-size="11">14</text>
+  <line x1="158" y1="250" x2="100" y2="260" stroke="#111" stroke-width="1"/>
+  <text x="75" y="275" font-family="Helvetica, Arial, sans-serif" font-size="11">18</text>
+  <line x1="380" y1="180" x2="350" y2="210" stroke="#111" stroke-width="1"/>
+  <text x="330" y="225" font-family="Helvetica, Arial, sans-serif" font-size="11">20</text>
+  <line x1="300" y1="180" x2="300" y2="130" stroke="#111" stroke-width="1"/>
+  <text x="285" y="120" font-family="Helvetica, Arial, sans-serif" font-size="11">16</text>
+  <line x1="420" y1="140" x2="460" y2="100" stroke="#111" stroke-width="1"/>
+  <text x="455" y="95" font-family="Helvetica, Arial, sans-serif" font-size="11">22</text>
+  <!-- Caption -->
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+</svg>
