@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect x="150" y="200" width="500" height="200" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="150" y="200" width="20" height="200" fill="none" stroke="#111" stroke-width="1"/>
+  <rect x="630" y="200" width="20" height="200" fill="none" stroke="#111" stroke-width="1"/>
+  <polygon points="300,220 350,220 370,320 280,320" fill="none" stroke="#111" stroke-width="2"/>
+  <rect x="280" y="310" width="90" height="15" fill="none" stroke="#111" stroke-width="2"/>
+  <line x1="400" y1="150" x2="340" y2="225" stroke="#111" stroke-width="1" stroke-dasharray="4,2"/>
+  <line x1="280" y1="340" x2="370" y2="340" stroke="#111" stroke-width="1"/>
+  <line x1="280" y1="335" x2="280" y2="345" stroke="#111" stroke-width="1"/>
+  <line x1="370" y1="335" x2="370" y2="345" stroke="#111" stroke-width="1"/>
+  <text x="310" y="360" font-family="Helvetica, Arial, sans-serif" font-size="12">42.0 mm nominal</text>
+  <line x1="340" y1="225" x2="250" y2="180" stroke="#111" stroke-width="1"/>
+  <text x="200" y="175" font-family="Helvetica, Arial, sans-serif" font-size="14">20</text>
+  <line x1="170" y1="250" x2="120" y2="300" stroke="#111" stroke-width="1"/>
+  <text x="100" y="310" font-family="Helvetica, Arial, sans-serif" font-size="14">22</text>
+  <circle cx="340" cy="225" r="4" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="350" y="150" font-family="Helvetica, Arial, sans-serif" font-size="14">14</text>
+  <text x="450" y="360" font-family="Helvetica, Arial, sans-serif" font-size="12">±0.5 mm</text>
+  <text x="350" y="580" font-family="Helvetica, Arial, sans-serif" font-size="16" text-anchor="middle">FIG. 2</text>
+</svg>
