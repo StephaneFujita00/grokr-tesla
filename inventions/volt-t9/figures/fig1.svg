@@ -1,55 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-  <rect width="800" height="600" fill="#FFFFFF"/>
-  <!-- Coaxial cable cross section left side -->
-  <rect x="50" y="220" width="280" height="160" fill="none" stroke="#111" stroke-width="2"/>
-  <text x="60" y="210" font-family="Helvetica, Arial, sans-serif" font-size="14">Coaxial cable (12)</text>
-  <!-- Center conductor -->
-  <line x1="60" y1="300" x2="320" y2="300" stroke="#111" stroke-width="8"/>
-  <text x="180" y="285" font-family="Helvetica, Arial, sans-serif" font-size="11">Center conductor (16) 0.8 mm dia</text>
-  <!-- Dielectric -->
-  <rect x="70" y="270" width="240" height="60" fill="none" stroke="#111" stroke-width="2"/>
-  <text x="140" y="265" font-family="Helvetica, Arial, sans-serif" font-size="11">Dielectric (34) 2.8 mm OD</text>
-  <!-- Braid shield -->
-  <rect x="65" y="265" width="250" height="70" fill="none" stroke="#111" stroke-width="3"/>
-  <text x="130" y="350" font-family="Helvetica, Arial, sans-serif" font-size="11">Braided shield (26) 95% coverage</text>
-  <!-- Outer jacket -->
-  <rect x="55" y="255" width="270" height="90" fill="none" stroke="#111" stroke-width="2"/>
-  <text x="120" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11">Jacket (36) 1.0 mm wall</text>
-  <!-- Connector housing right side -->
-  <rect x="340" y="180" width="420" height="240" fill="none" stroke="#111" stroke-width="2"/>
-  <text x="450" y="170" font-family="Helvetica, Arial, sans-serif" font-size="14">Connector housing (24)</text>
-  <!-- PCB inside -->
-  <rect x="380" y="220" width="200" height="120" fill="none" stroke="#111" stroke-width="1.5"/>
-  <text x="430" y="215" font-family="Helvetica, Arial, sans-serif" font-size="11">PCB (22)</text>
-  <!-- Inductor -->
-  <rect x="400" y="250" width="30" height="20" fill="none" stroke="#111" stroke-width="1.5"/>
-  <text x="395" y="285" font-family="Helvetica, Arial, sans-serif" font-size="10">L (18) 1.5 nH</text>
-  <!-- Capacitor -->
-  <rect x="480" y="280" width="25" height="15" fill="none" stroke="#111" stroke-width="1.5"/>
-  <text x="470" y="310" font-family="Helvetica, Arial, sans-serif" font-size="10">C (20) 22 pF</text>
-  <!-- Ground plane -->
-  <line x1="380" y1="320" x2="580" y2="320" stroke="#111" stroke-width="3"/>
-  <text x="450" y="340" font-family="Helvetica, Arial, sans-serif" font-size="10">Ground plane (44)</text>
-  <!-- Solder fillet to shell -->
-  <line x1="340" y1="300" x2="380" y2="300" stroke="#111" stroke-width="4"/>
-  <text x="300" y="295" font-family="Helvetica, Arial, sans-serif" font-size="10">Solder fillet (46)</text>
-  <!-- Shell outline -->
-  <rect x="335" y="175" width="430" height="250" fill="none" stroke="#111" stroke-width="3"/>
-  <text x="520" y="155" font-family="Helvetica, Arial, sans-serif" font-size="11">Shell (28) zinc-nickel</text>
-  <!-- Mating face contacts -->
-  <line x1="760" y1="240" x2="780" y2="240" stroke="#111" stroke-width="3"/>
-  <line x1="760" y1="260" x2="780" y2="260" stroke="#111" stroke-width="3"/>
-  <line x1="760" y1="280" x2="780" y2="280" stroke="#111" stroke-width="3"/>
-  <line x1="760" y1="300" x2="780" y2="300" stroke="#111" stroke-width="3"/>
-  <text x="700" y="320" font-family="Helvetica, Arial, sans-serif" font-size="10">Mating contacts (48)</text>
-  <!-- Strain relief boot -->
-  <path d="M320 255 Q340 240 360 255" fill="none" stroke="#111" stroke-width="2"/>
-  <path d="M320 315 Q340 330 360 315" fill="none" stroke="#111" stroke-width="2"/>
-  <text x="280" y="250" font-family="Helvetica, Arial, sans-serif" font-size="10">Boot (38)</text>
-  <!-- Leader lines to numerals -->
-  <line x1="200" y1="300" x2="200" y2="380" stroke="#111" stroke-width="1"/>
-  <line x1="450" y1="300" x2="450" y2="360" stroke="#111" stroke-width="1"/>
-  <line x1="520" y1="200" x2="520" y2="150" stroke="#111" stroke-width="1"/>
-  <!-- Caption -->
-  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
+<rect width="800" height="600" fill="#FFFFFF"/>
+<!-- Coaxial cable cross section left side full outline -->
+<rect x="40" y="210" width="300" height="180" fill="none" stroke="#111" stroke-width="2"/>
+<text x="50" y="200" font-family="Helvetica, Arial, sans-serif" font-size="14">Coaxial cable (12)</text>
+<!-- Center conductor full line with leader -->
+<line x1="50" y1="300" x2="330" y2="300" stroke="#111" stroke-width="8"/>
+<line x1="190" y1="300" x2="190" y2="380" stroke="#111" stroke-width="1"/>
+<text x="100" y="395" font-family="Helvetica, Arial, sans-serif" font-size="11">Center conductor (16) 0.8 mm dia</text>
+<!-- Dielectric full hatched section -->
+<rect x="60" y="265" width="260" height="70" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="70" y1="270" x2="310" y2="330" stroke="#111" stroke-width="0.5"/>
+<line x1="70" y1="330" x2="310" y2="270" stroke="#111" stroke-width="0.5"/>
+<text x="130" y="260" font-family="Helvetica, Arial, sans-serif" font-size="11">Dielectric (34) 2.8 mm OD</text>
+<!-- Braid shield full -->
+<rect x="55" y="260" width="270" height="80" fill="none" stroke="#111" stroke-width="3"/>
+<text x="120" y="355" font-family="Helvetica, Arial, sans-serif" font-size="11">Braided shield (26) 95% coverage</text>
+<!-- Outer jacket full -->
+<rect x="45" y="250" width="290" height="100" fill="none" stroke="#111" stroke-width="2"/>
+<text x="110" y="375" font-family="Helvetica, Arial, sans-serif" font-size="11">Jacket (36) 1.0 mm wall</text>
+<!-- Connector housing right side full outline with hatching on cut -->
+<rect x="340" y="170" width="430" height="260" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="350" y1="180" x2="760" y2="420" stroke="#111" stroke-width="0.5"/>
+<line x1="350" y1="420" x2="760" y2="180" stroke="#111" stroke-width="0.5"/>
+<text x="440" y="160" font-family="Helvetica, Arial, sans-serif" font-size="14">Connector housing (24)</text>
+<!-- PCB inside full with vias -->
+<rect x="370" y="210" width="220" height="140" fill="none" stroke="#111" stroke-width="1.5"/>
+<line x1="380" y1="220" x2="580" y2="220" stroke="#111" stroke-width="1"/>
+<line x1="380" y1="340" x2="580" y2="340" stroke="#111" stroke-width="1"/>
+<text x="420" y="205" font-family="Helvetica, Arial, sans-serif" font-size="11">PCB (22)</text>
+<!-- Inductor full -->
+<rect x="390" y="240" width="40" height="25" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="385" y="280" font-family="Helvetica, Arial, sans-serif" font-size="10">L (18) 1.5 nH</text>
+<!-- Capacitor full -->
+<rect x="470" y="270" width="30" height="18" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="460" y="305" font-family="Helvetica, Arial, sans-serif" font-size="10">C (20) 22 pF</text>
+<!-- Ground plane full -->
+<line x1="370" y1="330" x2="590" y2="330" stroke="#111" stroke-width="4"/>
+<text x="440" y="355" font-family="Helvetica, Arial, sans-serif" font-size="10">Ground plane (44)</text>
+<!-- Solder fillet to shell full 360 deg indication -->
+<line x1="340" y1="295" x2="370" y2="295" stroke="#111" stroke-width="5"/>
+<text x="290" y="290" font-family="Helvetica, Arial, sans-serif" font-size="10">Solder fillet (46) 85% coverage</text>
+<!-- Shell outline thicker -->
+<rect x="335" y="165" width="440" height="270" fill="none" stroke="#111" stroke-width="3"/>
+<text x="510" y="150" font-family="Helvetica, Arial, sans-serif" font-size="11">Shell (28) zinc-nickel</text>
+<!-- Mating face contacts full 6 contacts -->
+<line x1="765" y1="230" x2="785" y2="230" stroke="#111" stroke-width="3"/>
+<line x1="765" y1="250" x2="785" y2="250" stroke="#111" stroke-width="3"/>
+<line x1="765" y1="270" x2="785" y2="270" stroke="#111" stroke-width="3"/>
+<line x1="765" y1="290" x2="785" y2="290" stroke="#111" stroke-width="3"/>
+<line x1="765" y1="310" x2="785" y2="310" stroke="#111" stroke-width="3"/>
+<line x1="765" y1="330" x2="785" y2="330" stroke="#111" stroke-width="3"/>
+<text x="690" y="350" font-family="Helvetica, Arial, sans-serif" font-size="10">Mating contacts (48)</text>
+<!-- Strain relief boot full curved paths -->
+<path d="M320 250 Q345 235 365 250" fill="none" stroke="#111" stroke-width="2"/>
+<path d="M320 320 Q345 335 365 320" fill="none" stroke="#111" stroke-width="2"/>
+<text x="270" y="245" font-family="Helvetica, Arial, sans-serif" font-size="10">Boot (38) 2.0 mm wall</text>
+<!-- Trace on PCB -->
+<line x1="410" y1="252" x2="460" y2="252" stroke="#111" stroke-width="2"/>
+<text x="400" y="240" font-family="Helvetica, Arial, sans-serif" font-size="9">Trace (40)</text>
+<!-- Output pad -->
+<circle cx="500" cy="260" r="4" fill="none" stroke="#111" stroke-width="1.5"/>
+<text x="490" y="245" font-family="Helvetica, Arial, sans-serif" font-size="9">Pad (42)</text>
+<!-- Multiple vias on ground -->
+<circle cx="390" cy="320" r="3" fill="none" stroke="#111" stroke-width="1"/>
+<circle cx="420" cy="320" r="3" fill="none" stroke="#111" stroke-width="1"/>
+<circle cx="450" cy="320" r="3" fill="none" stroke="#111" stroke-width="1"/>
+<!-- Leader lines to all numerals -->
+<line x1="190" y1="300" x2="190" y2="380" stroke="#111" stroke-width="1"/>
+<line x1="450" y1="300" x2="450" y2="360" stroke="#111" stroke-width="1"/>
+<line x1="520" y1="200" x2="520" y2="145" stroke="#111" stroke-width="1"/>
+<line x1="720" y1="290" x2="720" y2="355" stroke="#111" stroke-width="1"/>
+<line x1="300" y1="295" x2="300" y2="285" stroke="#111" stroke-width="1"/>
+<!-- Caption -->
+<text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">FIG. 1</text>
 </svg>
