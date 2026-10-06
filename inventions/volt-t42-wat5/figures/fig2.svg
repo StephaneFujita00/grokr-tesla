@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fff"/>
+  <!-- Axes -->
+  <line x1="100" y1="500" x2="700" y2="500" stroke="#111" stroke-width="2"/>
+  <line x1="100" y1="100" x2="100" y2="500" stroke="#111" stroke-width="2"/>
+  <!-- Speed trace -->
+  <polyline points="120,450 200,450 220,420 300,420 320,380 400,380 420,300 500,300 520,250 600,250 620,200" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="650" y="220" font-family="Helvetica, Arial, sans-serif" font-size="10">Speed (12)</text>
+  <!-- Torque trace -->
+  <polyline points="120,300 200,300 220,280 300,280 320,350 400,350 420,320 500,320 520,280 600,280 620,260" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="650" y="280" font-family="Helvetica, Arial, sans-serif" font-size="10">Torque (14)</text>
+  <!-- Gain trace -->
+  <polyline points="120,200 300,200 320,170 500,170 520,200 700,200" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="650" y="180" font-family="Helvetica, Arial, sans-serif" font-size="10">Gain (24)</text>
+  <!-- Time markers -->
+  <line x1="220" y1="100" x2="220" y2="500" stroke="#111" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="320" y1="100" x2="320" y2="500" stroke="#111" stroke-width="1" stroke-dasharray="4"/>
+  <line x1="520" y1="100" x2="520" y2="500" stroke="#111" stroke-width="1" stroke-dasharray="4"/>
+  <text x="220" y="520" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle">Stop</text>
+  <text x="320" y="520" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle">Accel</text>
+  <text x="520" y="520" font-family="Helvetica, Arial, sans-serif" font-size="9" text-anchor="middle">Restore</text>
+  <!-- Hatching on gain drop section -->
+  <pattern id="hatch" patternUnits="userSpaceOnUse" width="8" height="8">
+    <path d="M0,8 L8,0" stroke="#111" stroke-width="1"/>
+  </pattern>
+  <rect x="320" y="170" width="180" height="30" fill="url(#hatch)" stroke="#111" stroke-width="1"/>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">FIG. 2</text>
+</svg>

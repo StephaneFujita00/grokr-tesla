@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fff"/>
+  <!-- ECU box -->
+  <rect x="200" y="100" width="400" height="350" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="400" y="130" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="middle">Steering ECU (10)</text>
+  <!-- Speed input -->
+  <line x1="50" y1="180" x2="200" y2="180" stroke="#111" stroke-width="2"/>
+  <text x="25" y="185" font-family="Helvetica, Arial, sans-serif" font-size="11">Speed (12)</text>
+  <!-- Torque input -->
+  <line x1="50" y1="280" x2="200" y2="280" stroke="#111" stroke-width="2"/>
+  <text x="25" y="285" font-family="Helvetica, Arial, sans-serif" font-size="11">Torque cmd (14)</text>
+  <!-- Detection module -->
+  <rect x="230" y="160" width="140" height="60" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="300" y="195" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Detection (16)</text>
+  <!-- Stop flag -->
+  <rect x="400" y="160" width="100" height="40" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="450" y="185" font-family="Helvetica, Arial, sans-serif" font-size="10" text-anchor="middle">Stop flag (18)</text>
+  <!-- Timer -->
+  <rect x="300" y="260" width="120" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="360" y="285" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Mitigation timer (22)</text>
+  <!-- Gain block -->
+  <rect x="450" y="260" width="100" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="500" y="285" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">Gain (24)</text>
+  <!-- Memory -->
+  <rect x="280" y="340" width="140" height="50" fill="none" stroke="#111" stroke-width="2"/>
+  <text x="350" y="365" font-family="Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">NV memory (28)</text>
+  <!-- Motor driver output -->
+  <line x1="600" y1="285" x2="750" y2="285" stroke="#111" stroke-width="2"/>
+  <text x="760" y="290" font-family="Helvetica, Arial, sans-serif" font-size="11">Motor driver (26)</text>
+  <!-- Leader lines with numerals -->
+  <line x1="300" y1="190" x2="230" y2="190" stroke="#111" stroke-width="1"/>
+  <line x1="450" y1="180" x2="400" y2="180" stroke="#111" stroke-width="1"/>
+  <line x1="360" y1="285" x2="300" y2="285" stroke="#111" stroke-width="1"/>
+  <line x1="500" y1="285" x2="450" y2="285" stroke="#111" stroke-width="1"/>
+  <line x1="350" y1="365" x2="280" y2="365" stroke="#111" stroke-width="1"/>
+  <text x="400" y="580" font-family="Helvetica, Arial, sans-serif" font-size="12" text-anchor="middle">FIG. 1</text>
+</svg>
